@@ -84,7 +84,7 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ---
 
 ## 📧 Contact
-For any queries or suggestions, reach out at **maityaditya2325@gmail.com**.
+For any queries or suggestions, reach out at **debjitghosh200@gmail.com @gmail.com**.
 
 ---
 
