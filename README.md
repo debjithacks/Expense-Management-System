@@ -73,18 +73,4 @@ Once the backend is running, you can access the API documentation at:
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 💡 Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
----
-
-## 📧 Contact
-For any queries or suggestions, reach out at **debjitghosh200@gmail.com @gmail.com**.
-
----
 
